@@ -20,7 +20,7 @@ function collect_same_elements(collection_a, object_b) {
 	
 	} 
 
-	return collection_same_elements;
+	return collection_same_elements.value;
 
 }
 
